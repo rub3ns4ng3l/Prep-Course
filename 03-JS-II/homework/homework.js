@@ -22,6 +22,7 @@ function conection(status) {
 }
 
 function saludo(idioma) {
+  //Pruebas de subir modificar archivos
   // Devuelve un saludo en tres diferentes lenguajes:
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
